@@ -33,7 +33,7 @@ My notes on learning Mandarin
 
 | Resource | Type | Free/Paid | Am I paying? | Description |
 | --- | --- | --- | --- | --- |
-| Immersi - Learn Chinese | [Android app](https://play.google.com/store/apps/details?id=app.immersi.immersi&hl=pt_BR&pli=1) / [iPhone app](https://apps.apple.com/br/app/immersi-learn-chinese/id6501961705) | Free (Limited) | Not at the beginning (I'm still not paying) | Great tool for learning Mandarin through legended videos, including YouTube ones. You can watch videos by choosing a word or swapping the screen the same way you do on social media like Instagram Stories. |
+| Immersi - Learn Chinese | [Android app](https://play.google.com/store/apps/details?id=app.immersi.immersi&hl=pt_BR&pli=1) / [iPhone app](https://apps.apple.com/br/app/immersi-learn-chinese/id6501961705) | Free (Limited) | Not at the beginning (I'm still not paying) | Great tool for learning Mandarin through subtitled videos, including YouTube ones. You can watch videos by choosing a word or swapping the screen the same way you do on social media like Instagram Stories. |
 | Du Chinese | [Android app / iPhone app](https://duchinese.net/) | Free (Limited) | Not at the beginning (I'm still not paying) | Learn Mandarin by reading stories. It's graded by levels. One of the best apps for learning Mandarin out there. |
 | Pleco | [Android app / iPhone app](https://www.pleco.com/) | Free (in-app purchases) | - | No introduction needed. One of the most used apps for this purpose. A Mandarin dictionary and spaced repetition app. |
 | Little Fox Chinese | [Website](https://chinese.littlefox.com/en) | Free | - | Great and simple but rich material for learning Mandarin through simple story animations. |
@@ -57,7 +57,7 @@ More details will go in the first note, which I should write as soon as this pro
 Oh, and about why I’m creating this repository, I’ve always liked the [learn in public](https://www.swyx.io/learn-in-public) method, even before I knew the term existed. I once ran an online Japanese study group where we’d post our study updates. And no, I don't actually speak Japanese if you ask me, but I'll try to get back to it someday. Sharing is a good way to hold yourself accountable while (hopefully) helping others in the process. Also, I'm too lazy/busy to create a blog (though I do want to create one in the future), and a repository is a great way to organize things in the meantime.
 
 ### 🌼 My plan is  
-- Studying every day 
+- Studying every day, even for a little bit 
 - Study a Little Fox episode
 - Study a Du Chinese text
 - Study the words from both apps on Immersi
