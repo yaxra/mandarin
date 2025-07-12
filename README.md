@@ -50,9 +50,7 @@ It's important to note that I'm learning two other languages besides Mandarin (w
   
 I'll use AI to get some questions answered, but I'll try not to rely on it too much since I don't want to sound like I'm scripted by DeepSeek or something lol.  
 
-I also don't know yet if I'll use a textbook. I'll update here about it later. I like understanding grammar, so maybe I'll do that.  
-  
-More details will go in the first note, which I should write as soon as this project actually starts :)
+<strike>I also don't know yet if I'll use a textbook. I'll update here about it later. I like understanding grammar, so maybe I'll do that.</strike> Studying from textbooks takes too much time. I prefer to listen to or read stories, conversations, etc.
 
 Oh, and about why I’m creating this repository, I’ve always liked the [learn in public](https://www.swyx.io/learn-in-public) method, even before I knew the term existed. I once ran an online Japanese study group where we’d post our study updates. And no, I don't actually speak Japanese if you ask me, but I'll try to get back to it someday. Sharing is a good way to hold yourself accountable while (hopefully) helping others in the process. Also, I'm too lazy/busy to create a blog (though I do want to create one in the future), and a repository is a great way to organize things in the meantime.
 
